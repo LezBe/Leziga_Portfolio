@@ -4,9 +4,9 @@
 
 I am a senior electrical engineering student at the **University of Houston** focused on designing, integrating, and validating hardware and embedded systems. My work spans real-time motor control, FPGA/RTL design, sensor-board development, medical-device EMI/EMC test methods, and technical product analysis at Texas Instruments.
 
-**[Explore all project pages](projects/)** · **[GitHub profile](https://github.com/LezBe)** · **[Portfolio website configuration](https://github.com/LezBe/Leziga_Portfolio/blob/main/_config.yml)**
+**[Explore all project pages](projects/)** · **[GitHub profile](https://github.com/LezBe)** · **[Employer access / profile setup](docs/EMPLOYER_ACCESS.md)**
 
-> **Website:** This repository contains a Jekyll/TechFolio site configured for GitHub Pages at `https://lezbe.github.io/Leziga_Portfolio/`. Verify that Pages deployment is enabled before sharing that URL externally. The GitHub repository links below work independently of Pages deployment.
+> **Website:** This repository contains a Jekyll/TechFolio site configured for GitHub Pages at `https://lezbe.github.io/Leziga_Portfolio/`. To activate the website, open this repository’s **Settings → Pages → Build and deployment**, select **GitHub Actions** as the source, then rerun the deployment workflow. The GitHub integration cannot turn on Pages automatically. The GitHub repository links below work independently of Pages deployment.
 
 ## Engineering Projects
 
