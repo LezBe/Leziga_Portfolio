@@ -22,6 +22,7 @@ layout: home
         {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
         {% capture label %}{{ site.data.bio.basics.email }}{% endcapture %}
         <p class="mb-1">{% include about/social.html url=url name='envelope' label=label %}</p>
+        {% endif %}
 
         {% for profile in site.data.bio.basics.profiles %}
           {% capture url %}{{ profile.url }}{% endcapture %}
