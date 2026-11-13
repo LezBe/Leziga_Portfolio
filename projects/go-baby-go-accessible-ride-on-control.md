@@ -4,6 +4,7 @@ type: project
 title: "Go Baby Go — Accessible Ride-On Vehicle Control System"
 date: 2025
 published: true
+projecturl: "https://github.com/LezBe/Go-Baby-Go-Accessible-Vehicle"
 labels:
   - Embedded Systems
   - Motor Control
@@ -47,3 +48,7 @@ This project was collaborative. The technical document and meeting reports descr
 **Design targets are not presented as measured outcomes.** In particular, the available records do not establish a measured noise reduction, proven isolation withstand voltage, or verified long-term reliability improvement. Those claims require additional test data.
 
 *Project documentation: Go Baby Go Technical Document (2024–2025) and project meeting records. The shared team Drive folder is intentionally not linked publicly.*
+
+### Source and Project Documentation
+
+[View the dedicated Go Baby Go repository](https://github.com/LezBe/Go-Baby-Go-Accessible-Vehicle), including [technical notes](https://github.com/LezBe/Go-Baby-Go-Accessible-Vehicle/blob/main/TECHNICAL_NOTES.md), [system architecture](https://github.com/LezBe/Go-Baby-Go-Accessible-Vehicle/blob/main/docs/SYSTEM_ARCHITECTURE.md), and [documented project status](https://github.com/LezBe/Go-Baby-Go-Accessible-Vehicle/blob/main/docs/PROJECT_STATUS.md).
