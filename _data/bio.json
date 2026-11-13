@@ -1,118 +1,123 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Leziga Beage",
+    "label": "Electrical Engineering | Embedded Systems, Hardware Integration & Validation",
+    "picture": "https://github.com/LezBe.png",
+    "email": "",
+    "phone": "",
+    "website": "https://github.com/LezBe/Leziga_Portfolio",
+    "summary": "Senior electrical engineering student at the University of Houston, concentrating on computer and embedded systems. I build and test hardware, embedded control systems, digital logic, and electronics interfaces. My experience includes FPGA development, EMI/EMC validation for medical electrodes, avionics sensor-board design, and product marketing engineering at Texas Instruments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Houston",
+      "countryCode": "USA",
+      "region": "Texas"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "LezBe",
+        "url": "https://github.com/LezBe"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Embedded Systems"
+    },
+    {
+      "name": "Hardware Design & Integration"
+    },
+    {
+      "name": "Electronics Testing & Validation"
+    },
+    {
+      "name": "Semiconductors"
+    },
+    {
+      "name": "Avionics"
+    }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Hardware & Engineering",
+      "keywords": [
+        "Circuit Design",
+        "KiCad",
+        "LTspice",
+        "PCB Design",
+        "EMI/EMC Testing",
+        "Motor Control",
+        "Sensor Interfaces"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Embedded & Digital",
+      "keywords": [
+        "C",
+        "Verilog",
+        "FPGA",
+        "SPI",
+        "UART",
+        "PWM",
+        "TI-RTOS"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Git/GitHub",
+        "Quartus Prime",
+        "ModelSim",
+        "Code Composer Studio"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Houston — Cullen College of Engineering",
+      "area": "Electrical Engineering (Computer & Embedded Systems)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "startDate": "",
+      "endDate": "",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Texas Instruments",
+      "position": "Product Marketing Engineering Intern",
+      "website": "https://www.ti.com/",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "Evaluated C2000 microcontroller capabilities and their fit with customer requirements in test and measurement applications.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Collaborated with applications and systems engineers to map device capabilities to system requirements",
+        "Prepared technical product training and executive-facing portfolio analysis"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "University of Houston IEEE Student Branch",
+      "position": "Marketing Committee",
       "website": "",
-      "position": "Professional organization involvement",
       "startDate": "",
       "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Engineering community outreach and event promotion",
+      "highlights": []
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "organization": "National Society of Black Engineers (NSBE)",
+      "position": "Member",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Professional development and engineering community engagement",
+      "highlights": []
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+  "awards": [],
+  "references": []
 }
