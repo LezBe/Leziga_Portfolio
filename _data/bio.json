@@ -89,8 +89,8 @@
       "company": "Texas Instruments",
       "position": "Product Marketing Engineering Intern",
       "website": "https://www.ti.com/",
-      "startDate": "2025-05-01",
-      "endDate": "2025-08-01",
+      "startDate": "2025",
+      "endDate": "",
       "summary": "Evaluated C2000 microcontroller capabilities and their fit with customer requirements in test and measurement applications.",
       "highlights": [
         "Collaborated with applications and systems engineers to map device capabilities to system requirements",
